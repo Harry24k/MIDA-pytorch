@@ -1,4 +1,7 @@
 # MIDA-pytorch
+A pytorch implementation of "MIDA: Multiple Imputation using Denoising Autoencoders"
+https://arxiv.org/abs/1705.02737[https://arxiv.org/abs/1705.02737]
+
 ## Requirements
 numpy==1.14.2
 pandas==0.22.0
