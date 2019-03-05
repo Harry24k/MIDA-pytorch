@@ -1,5 +1,5 @@
 # MIDA-pytorch
-**A pytorch implementation of "[MIDA: Multiple Imputation using Denoising Autoencoders](https://arxiv.org/abs/1705.02737)"  **
+**A pytorch implementation of "[MIDA: Multiple Imputation using Denoising Autoencoders](https://arxiv.org/abs/1705.02737)"**
 
 ## Summary of the paper
 1. Doing imputation with Overcomplete AutoEncoder for missing data
