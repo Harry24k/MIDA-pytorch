@@ -10,7 +10,7 @@ Paper : https://arxiv.org/abs/1705.02737**
 5. Simple but good
 
 ## Requirements
-python==3.6
+python==3.6   
 numpy==1.14.2   
 pandas==0.22.0   
 scikit-learn==0.19.1   
